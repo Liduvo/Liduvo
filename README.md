@@ -5,6 +5,7 @@
 
 Hi, I'm Utku Hasbey Kurban. I'm a student in Turkey. I'm interested in artificial intelligence. I love math ,programming and books. I'm learning Python and I'm trying to improve myself on that.
 
+
 - 🌱 I’m currently learning Python 
 - 📫 How to reach me: hasbey945@gmail.com 
 

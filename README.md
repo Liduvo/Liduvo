@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m student from Trakya University<br>🌱 I'm trying to improve myself on Python.<br>
+🔭 I’m student from Trakya University<br>🌱 I'm trying to improve myself on Python and Data Science.<br>
 
 
 ## 🌐 Socials:

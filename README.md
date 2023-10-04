@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m student from Trakya University<br>🌱 I'm trying to improve myself on Python and Data Science.<br>:envelope: My E-Mail Adress: hasbey945@gmail.com
+🔭 I’m student from Trakya University<br>🌱 I'm trying to improve myself on Python and Data Science.<br>:envelope: My E-Mail Adress: hasbey945@gmail.com<br>
 
 
 ## 🌐 Socials:
